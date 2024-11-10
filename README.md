@@ -1,5 +1,5 @@
 <h1>👋 Hello, I'm Heli Alpeshbhai Bhavsar</h1>
-<h2>💻 Tech Enthusiast | 🎨 UI/UX Designer | ☁️ Aspiring Cloud Engineer | ✨ Visionary Thinker </h2>
+<h3>💻 Tech Enthusiast | 🎨 UI/UX Designer | ☁️ Aspiring Cloud Engineer | ✨ Visionary Thinker </h3>
 
 I'm a versatile developer and designer who loves crafting digital experiences that combine visual appeal with seamless functionality. With a strong foundation in Information Technology (BSC.IT) and hands-on experience in IT support, UI/UX design, and web development, I’m committed to making technology intuitive and accessible.
 
