@@ -4,9 +4,9 @@
 I'm a versatile developer and designer who loves crafting digital experiences that combine visual appeal with seamless functionality. With a strong foundation in Information Technology (BSC.IT) and hands-on experience in IT support, UI/UX design, and web development, I’m committed to making technology intuitive and accessible.
 
 🌟 What I Do:
-UI/UX Design: I design intuitive, user-centered interfaces that prioritize both aesthetics and usability. My goal is to create designs that tell a story while enhancing user experience.
-Cloud Engineering: Currently expanding my skills in cloud computing, focusing on Azure to develop scalable and secure solutions.
-Customer & Technical Support: With a background in tech support, I bring patience and problem-solving to every interaction, enhancing user satisfaction and functionality.
+<b>UI/UX Design:</b> I design intuitive, user-centered interfaces that prioritize both aesthetics and usability. My goal is to create designs that tell a story while enhancing user experience.<br>
+<b>Cloud Engineering:</b> Currently expanding my skills in cloud computing, focusing on Azure to develop scalable and secure solutions.
+<b>Customer & Technical Support:</b> With a background in tech support, I bring patience and problem-solving to every interaction, enhancing user satisfaction and functionality.
 
 🌐 Currently Exploring: I’m diving deeper into data analysis, responsive web design, and cloud engineering to deliver adaptable, cross-platform solutions. From enhancing digital experiences to innovating in tech infrastructure, I’m dedicated to finding creative solutions that make a difference.
 
